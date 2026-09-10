@@ -4,7 +4,7 @@ Hello! I am **Cai Xinpo (蔡信坡)**, a junior undergraduate student majoring i
 
 In my spare time, I enjoy playing video games and trying out new AI tools. While playing, I often wonder how the enemies' behavior logic is actually implemented in code, and that curiosity is what got me interested in game development. I am passionate about **AI Agent** and **game software development**, and I am continuously learning and practicing.
 
-My short-term goal is to grow from "writing code that runs" to "writing code that is standard and designed on purpose". My long-term goal is to pursue a master's degree.
+My short-term goal is to become able to write a program from a blank page on my own — and then to grow from "writing code that runs" to "writing code that is standard and designed on purpose". My long-term goal is to pursue a master's degree.
 
 - GitHub: [@popochus](https://github.com/popochus)
 - Blog: https://www.cnblogs.com/caipo/
@@ -48,11 +48,12 @@ My short-term goal is to grow from "writing code that runs" to "writing code tha
 
 ## 📈 What I still need to improve
 
-- **Engineering mindset**: my code tends to be "works is enough"; I still think too little about maintainability, testability and extensibility
+- **Too little hands-on coding, and a heavy reliance on AI tools**: most of my ~4000 lines came from practice problems whose answers were already given, and when I got stuck I would usually ask an AI and adapt the code it produced. Take AI and templates away and put a blank page in front of me, and writing a program from scratch is still hard — so the amount I have truly written myself is even smaller than 4000 lines
 - **Complete project experience**: I have not yet been through a full "requirements → design → development → release → maintenance" cycle, and I have almost no practice in teamwork or code review
+- **Engineering mindset**: my code tends to be "works is enough"; I still think too little about maintainability, testability and extensibility
 - **Depth in low-level topics and algorithms**: Compiler Principles not taken, Computer Networks is mostly theoretical, and my ideas get narrow when facing complex algorithmic problems
-- **The directions I am interested in have not been tried hands-on**: I can only play games, not make them, and I have basically zero foundation in engines and graphics; my understanding of AI Agents is still at the level of using them and knowing the concepts
 - **Version control and system-level tools**: my Git experience is limited to the GitHub web interface, and Linux and SQL are still unfamiliar to me
+- **The directions I am interested in have not been tried hands-on**: I can only play games, not make them, and I have basically zero foundation in engines and graphics; my understanding of AI Agents is still at the level of using them and knowing the concepts — and both of these directions require writing a lot of code myself, which is exactly my weakest point
 
 ---
 
