@@ -6,8 +6,8 @@ In my spare time, I enjoy playing video games and trying out new AI tools. While
 
 My short-term goal is to grow from "writing code that runs" to "writing code that is standard and designed on purpose". My long-term goal is to pursue a master's degree.
 
-- GitHub：[@popochus](https://github.com/popochus)
-- Blog：https://www.cnblogs.com/caipo/
+- GitHub: [@popochus](https://github.com/popochus)
+- Blog: https://www.cnblogs.com/caipo/
 
 ---
 
@@ -28,9 +28,10 @@ My short-term goal is to grow from "writing code that runs" to "writing code tha
 - Assembly Language
 - Calculus, Linear Algebra, Discrete Mathematics, Probability and Mathematical Statistics
 
-**Tools:**
+**Development Tools:**
 
-- Git / GitHub basic workflow; Linux common commands; basic SQL (self-taught)
+- Able to set up a Python environment in VS Code (virtual environment + `pip`) and run scripts that use third-party libraries
+- Able to publish and edit files on GitHub through the web interface
 
 ## 🔍 Technical areas I am interested in
 
@@ -51,6 +52,7 @@ My short-term goal is to grow from "writing code that runs" to "writing code tha
 - **Complete project experience**: I have not yet been through a full "requirements → design → development → release → maintenance" cycle, and I have almost no practice in teamwork or code review
 - **Depth in low-level topics and algorithms**: Compiler Principles not taken, Computer Networks is mostly theoretical, and my ideas get narrow when facing complex algorithmic problems
 - **The directions I am interested in have not been tried hands-on**: I can only play games, not make them, and I have basically zero foundation in engines and graphics; my understanding of AI Agents is still at the level of using them and knowing the concepts
+- **Version control and system-level tools**: my Git experience is limited to the GitHub web interface, and Linux and SQL are still unfamiliar to me
 
 ---
 
@@ -96,5 +98,5 @@ My short-term goal is to grow from "writing code that runs" to "writing code tha
 
 # 📫 Contact Me
 
-- Blog：https://www.cnblogs.com/caipo/
-- GitHub：https://github.com/popochus
+- Blog: https://www.cnblogs.com/caipo/
+- GitHub: https://github.com/popochus
