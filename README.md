@@ -18,7 +18,7 @@ My short-term goal is to grow from "writing code that runs" to "writing code tha
 **Programming Languages:**
 
 - Systematically learned **C / C++**, with a solid grasp of both procedural and object-oriented programming; able to complete basic algorithms and small-to-medium course assignments
-- **Python** is currently under learning; I can already use it for basic programming and simple API-based projects
+- **Python** is still at a beginner stage: I can read simple programs and follow tutorials or documentation to get examples that use third-party libraries running
 
 **Foundational Courses:**
 
@@ -73,8 +73,8 @@ My short-term goal is to grow from "writing code that runs" to "writing code tha
 
 **Project: Text-to-Image with Hugging Face Flux (Software Engineering course, this semester)**
 
-- Called the **Flux** text-to-image model through Python and `huggingface_hub`, and built an interactive front-end with **Gradio**
-- Improved the output quality by prompt engineering (fully English, structured description)
+- Got a **Flux** text-to-image demo (Python + `huggingface_hub`, with a **Gradio** front-end) running on my own machine, following tutorials and documentation step by step
+- Compared two versions of prompts and saw for myself how much the wording affects the result (a fully English, structured description works much better)
 - Produced a photorealistic portrait image and documented the whole process, including API call logs and screenshots
 
 ---
